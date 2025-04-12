@@ -54,7 +54,7 @@
 					<td bgcolor="orange">
 						<table>
 							<tr>
-								<td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fntr_royal_fans%2Fp%2FC4zijXOhRv6%2F&psig=AOvVaw3bDRgMJt2jlHKnRcFN2rK8&ust=1744526930720000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCai7Tz0YwDFQAAAAAdAAAAABAE" height=auto width="200"></td>
+								<td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FN._T._Rama_Rao_Jr.&psig=AOvVaw0ToJLh1iNidJEsSgXxyY74&ust=1744527996230000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiz4rj30YwDFQAAAAAdAAAAABAE" height=auto width="200"></td>
 								<td class="cursiveText">Tea,<br>Coffee,<br>Lattes,<br> and Hot Chocolate.<br>Yes, we have it!</td>
 							</tr>
 						</table>
